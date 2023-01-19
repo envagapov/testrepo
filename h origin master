@@ -1,0 +1,48 @@
+[33mcommit acf46b6ffa5931faeefdb28fcd857b5306dd15c5[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;33mtag: v1.0[m[33m)[m
+Author: envagapov <envagapov@gmail.com>
+Date:   Thu Jan 19 10:07:15 2023 +0500
+
+    modify file2
+
+[33mcommit c3ad036c8592b09ac7e16e7ace6258aa578269f4[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 4c1d6f0 4ab7bac
+Author: envagapov <envagapov@gmail.com>
+Date:   Thu Jan 19 09:56:50 2023 +0500
+
+    Merge branch 'test'
+
+[33mcommit 4c1d6f0df46d269196b361f04374d3aef9cc214b[m
+Author: envagapov <envagapov@gmail.com>
+Date:   Thu Jan 19 09:50:30 2023 +0500
+
+    add file6
+
+[33mcommit 4ab7bac6529e1cafd42fc6a1e4850d4233767eda[m[33m ([m[1;31morigin/test[m[33m, [m[1;32mtest[m[33m)[m
+Author: envagapov <envagapov@gmail.com>
+Date:   Thu Jan 19 09:48:06 2023 +0500
+
+    add file5
+
+[33mcommit ba176ba2d4ed12e4824fe21ccde0aacd78bae29a[m
+Author: envagapov <envagapov@gmail.com>
+Date:   Thu Jan 19 09:46:36 2023 +0500
+
+    modify file1
+
+[33mcommit c86779a42e0504e9f244e6ca4c369d8c075a0ddf[m
+Author: envagapov <envagapov@gmail.com>
+Date:   Wed Jan 18 12:23:08 2023 +0500
+
+    updated files
+
+[33mcommit 120f336e30acd3655a4e0c94f984a4ade99d89a7[m
+Author: envagapov <envagapov@gmail.com>
+Date:   Wed Jan 18 11:45:06 2023 +0500
+
+    modiy file2.txt; add file3 file 4
+
+[33mcommit 4d91df9b842934b5e1671b3be34260a2c227ce33[m
+Author: envagapov <envagapov@gmail.com>
+Date:   Wed Jan 18 11:32:59 2023 +0500
+
+    initial commit
